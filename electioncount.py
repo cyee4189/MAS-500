@@ -33,4 +33,3 @@ ElectionCount ('Trump')
 
 
 
-## you still need to add logging info on this
