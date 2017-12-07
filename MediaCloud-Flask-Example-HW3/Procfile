@@ -1,2 +1,2 @@
-web: gunicorn mcserver.wsgi\
+web: gunicorn mcserver.wsgi
 
