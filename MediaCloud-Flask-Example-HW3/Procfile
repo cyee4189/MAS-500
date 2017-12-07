@@ -1,2 +1,2 @@
-web: python mcserver.py run server
+web: python mcserver.py 
 web: gunicorn mcserver.wsgi
