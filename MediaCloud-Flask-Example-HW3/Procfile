@@ -1,0 +1,2 @@
+web: python mcserver.py run server
+web: gunicorn mcserver.wsgi
